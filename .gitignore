@@ -1,10 +1,1 @@
-*.scss
-.vscode
-public_key.txt
-.hintrc
-*.exe
-*.jar
-*temp
-.well-known
-*.env
-Data_Naming.md
+English_roots_suffix.md
